@@ -8,6 +8,11 @@
   <url>http://github.com/kewangtw/google-tts</url>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
+  <parent>
+    <groupId>org.sonatype.oss</groupId>
+    <artifactId>oss-parent</artifactId>
+    <version>7</version>
+  </parent>
   <scm>
     <url>http://github.com/kewangtw/google-tts</url>
     <connection>scm:git:git://github.com/kewangtw/google-tts.git</connection>
