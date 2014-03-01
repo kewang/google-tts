@@ -15,8 +15,8 @@
   </parent>
   <scm>
     <url>http://github.com/kewangtw/google-tts</url>
-    <connection>scm:git:git://github.com/kewangtw/google-tts.git</connection>
-    <developerConnection>scm:git:git://github.com/kewangtw/google-tts.git</developerConnection>
+    <connection>scm:git:git@github.com:kewangtw/google-tts.git</connection>
+    <developerConnection>scm:git:git@github.com:kewangtw/google-tts.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
   <properties>
